@@ -1,0 +1,4 @@
+Абсолютный путь файла - C:\Users\vkerenikevich\IdeaProjects\Practics\FileWork\src\main\resources\input\Shantaram.txt, имя файла - Shantaram.txt
+Размер файла - 885 Кб
+Вы можете читать файл
+Вы можете записывать в файл
